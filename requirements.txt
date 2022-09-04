@@ -1,0 +1,10 @@
+requests
+flask
+flask-cors
+flask-restful
+jsonify
+fake_useragent
+gunicorn
+phonenumbers
+colorama
+bs4
