@@ -1,5 +1,5 @@
 ## X-Spam
-Brutal Spammer By Ammar Executed X MR_DARK
+Brutal Spammer By Ammar Executed X MR_DARK X Khoirul Anam
 
 <details open>
   <summary><strong> Install Package + Run Script </strong></summary>
@@ -60,5 +60,7 @@ Brutal Spammer By Ammar Executed X MR_DARK
 
 [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g)
 [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=MR_%20DARK&color=green)](https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=MR_%20DARK&color=green)](https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=MR_DARK&color=green)](https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=MR_DARK&color=green)](https://youtube.com/channel/UCnti7B0HaFE0izlHKwZMn8A)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Khoirul%20Anam&color=green)](https://youtube.com/channel/UCBMHmolDFS8j3dT8iWtdFeg)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Khoirul%20Anam&color=green)](https://youtube.com/channel/UCBMHmolDFS8j3dT8iWtdFeg)
