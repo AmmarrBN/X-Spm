@@ -1,6 +1,11 @@
 ## X-Spam
 Brutal Spammer By Ammar Executed X MR_DARK X Khoirul Anam
 
+## Pemakaian
+<p align="center">
+    <img src="https://github.com/AmmarrBN/X-Spm/blob/main/20220907_181225.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
 <details open>
   <summary><strong> Install Package + Run Script </strong></summary>
 
