@@ -57,7 +57,7 @@ Brutal Spammer By Ammar Executed X MR_DARK X Khoirul Anam
 
 
   ```bash
-  Key : [ https://carapedi.id/tWhLaU ]
+  Key : [ https://carapedi.id/cOyI1GPIG ]
   ```
 
 
